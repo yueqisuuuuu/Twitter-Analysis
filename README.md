@@ -5,4 +5,4 @@ See https://github.com/yueqisuuuuu/Twitter-Analysis/blob/master/OMIS_107_Documen
 
 
 
-Note: get-pip.py & tweetering.py provided by professor
+Note: get-pip.py & tweetering.py provided by Professor Samorani
